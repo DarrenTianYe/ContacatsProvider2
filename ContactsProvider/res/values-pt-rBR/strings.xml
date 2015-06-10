@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="sharedUserLabel">Núcleo Android Apps</string>
+  <string name="app_label">Contatos de armazenamento</string>
+  <string name="provider_label">Contactos</string>
+  <string name="upgrade_msg">Atualizando banco de dados de contatos.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Atualização de contatos precisa de mais memória.</string>
+  <string name="upgrade_out_of_memory_notification_title">Atualizando armazenamento para contatos.</string>
+  <string name="upgrade_out_of_memory_notification_text">Tocar para concluir a atualização.</string>
+  <string name="default_directory">Contactos</string>
+  <string name="local_invisible_directory">Outros</string>
+  <string name="read_write_all_voicemail_label">Acesso a todos os correios de voz</string>
+  <string name="read_write_all_voicemail_description">Permite que o aplicativo armazene e recupere todas as mensagens de voz que este dispositivo pode acessar.</string>
+  <string name="voicemail_from_column">"Voicemail de"</string>
+  <string name="phone">"Telefone"</string>
+    <string name="debug_dump_title">"Copiar a database de contatos"</string>
+    <string name="debug_dump_database_message">"Você está a 1) fazer uma cópia da sua database que incluindo informação de todos os contatos relativos e todos os logs de chamada para a guarda internal, e 2) email-o. Lembra a deletar a cópia assim que você copiou com sucesso fora de aparelho ou o email é recebido."</string>
+    <string name="debug_dump_delete_button">"Deletar agora"</string>
+    <string name="debug_dump_start_button">"Iniciar"</string>
+    <string name="debug_dump_email_sender_picker">"Escolher um programa para enviar o seu arquivo"</string>
+    <string name="debug_dump_email_subject">"Contatos Db anexados"</string>
+    <string name="debug_dump_email_body">"Anexado é meu database de contatos com informação de todos os meus contatos. Trate-o com cuidado."</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">కాంటాక్ట్స్ నిల్వ </string>
+  <string name="provider_label">కాంటాక్టులు</string>
+  <string name="upgrade_out_of_memory_notification_ticker">కాంటాక్ట్ నవీకరణకి అధిక మెమరీ కావాలి </string>
+  <string name="upgrade_out_of_memory_notification_title">స్టోరేజి కాంటాక్ట్ అప్ గ్రేడ్ చేయబడుతోంది</string>
+  <string name="upgrade_out_of_memory_notification_text">నవీకరణ పూర్తి చేయడానికి ఎంచుకోండి.</string>
+  <string name="sharedUserLabel">ఆండ్రాయిడ్ కోర్ అప్లికేషన్లు</string>
+  <string name="upgrade_msg">డేటాబేస్ పరిచయాలను నవీకరిస్తోంది</string>
+  <string name="default_directory">పరిచయాలు</string>
+  <string name="local_invisible_directory">ఇతరాలు</string>
+  <string name="read_write_all_voicemail_label">అన్ని వాయిస్ మెయిళ్లనీ యాక్సెస్ చేయి</string>
+  <string name="read_write_all_voicemail_description">ఈ పరికరం యాక్సిస్ చేయగల అన్ని వాయిస్ మెయిల్స్ నీ భద్రపరిచేందుకూ, తిరిగి తెప్పించేందుకు అప్లికేషన్ ని అనుమతిస్తుంది. </string>
+  <string name="voicemail_from_column">నుండి వాయిస్ మెయిల్</string>
+  <string name="phone">"ఫోను"</string>
+    <string name="debug_dump_title">"కాంటాక్టు డాటాబేసును కాపీ చేయండి"</string>
+    <string name="debug_dump_database_message">"మీరు ఇప్పుడు 1) మీ యొక్క అన్ని కాంటాక్టులకు సంబంధించిన సమాచారాన్ని కలిగి ఉన్న మీ డాటాబేస్ మరియు అంతర్గత స్టోరేజీలో ఉన్నమొత్తం కాల్ లాగు యొక్క కాపీను చేయండి, మరియు 2) దానిని ఈమెయిల్ చేయండి. మీరు విజయవంతంగా పరికరం నుండి లెడ్డ వచ్చిన మెయిలు నుండి కాపీ చేసిన వెంటనే కాపీను తోలిగించడం మర్చిపోవద్దు."</string>
+    <string name="debug_dump_delete_button">"ఇప్పుడు తొలగించు"</string>
+    <string name="debug_dump_start_button">"స్టార్ట్"</string>
+    <string name="debug_dump_email_sender_picker">"మీ ఫైల్ పంపడానికి ఒక ప్రోగ్రామ్ను ఎంచుకోండి"</string>
+    <string name="debug_dump_email_subject">"కాంటాక్టుల Db అటాచ్ చేయబడి ఉంది"</string>
+    <string name="debug_dump_email_body">"నా యొక్క అన్ని కాంటాక్టుల సమాచారంతో నా కాంటాక్టుల డాటాబేస్ అటాచ్ చేయబడి ఉంది. దయచేసి జాగ్రత్తగా చూసుకోండి."</string>
+</resources>

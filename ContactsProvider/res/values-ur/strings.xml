@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">رابطے ذخیرہ</string>
+  <string name="provider_label">پی بی</string>
+  <string name="upgrade_out_of_memory_notification_ticker">اپ گریڈ رابطہ زیادہ میموری کی ضرورت ہے</string>
+  <string name="upgrade_out_of_memory_notification_title">رابطہ سٹوریج کی اپ گریڈنگ</string>
+  <string name="upgrade_out_of_memory_notification_text">اپ گریڈ مکمل کرنے کے لئے منتخب کریں.</string>
+  <string name="upgrade_msg">رابطے ڈیٹا بیس اپ گریڈ.</string>
+  <string name="default_directory">رابطے</string>
+  <string name="local_invisible_directory">دیگر</string>
+  <string name="read_write_all_voicemail_label">تمام صوتی میلز تک رسائی حاصل کریں</string>
+  <string name="read_write_all_voicemail_description">درخواست اور بازیافت جمع کی اجازت دیتا ہے
+        تمام میلز کو اس آلہ تک رسائی حاصل کر سکتے ہیں.</string>
+  <string name="voicemail_from_column">سے وائس میل</string>
+  <string name="phone">"فون"</string>
+    <string name="sharedUserLabel">ایندرائد کور اطلاقات</string>
+    <string name="debug_dump_title">"رابطوں کے ڈیٹا بیس کی نقل کریں"</string>
+    <string name="debug_dump_database_message">"آپ کرنے والے ہیں، ۱) اپنے کانٹیکٹس کے متعلق تمام معلومات اور کال لاگ پر مشتمل ڈیٹا بیس کی کاپی اندرونی سٹوریج پر کریں ۲)اسے ای میل کریں۔ کامیابی کے ساتھ کاپی ہونے یا ای میل موصول ہونے کے بعد اس کاپی کو حذف کرنا یاد رکھیں"</string>
+    <string name="debug_dump_delete_button">"اب حذف کریں"</string>
+    <string name="debug_dump_start_button">"شُروع کرنا ۔"</string>
+    <string name="debug_dump_email_sender_picker">"آپ کی فائل کو بھیجنے کے پروگرام کو منتخب کریں"</string>
+    <string name="debug_dump_email_subject">"روابط Db منسلکہ"</string>
+    <string name="debug_dump_email_body">"میری تمام کانٹیکٹ ڈیٹا بیس تمام رابطے کی معلومات کے ساتھ منسلک ھے، احتیاط سے استعمال کریں"</string>
+</resources>

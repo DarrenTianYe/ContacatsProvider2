@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sharedUserLabel">\'ਐਂਡਰੋਇਡ ਮੁੱਖ ਅਨੁਪ੍ਰਯੋਗ</string>
+    <string name="app_label">ਸੰਪਰਕ ਸਟੋਰੇਜ</string>
+    <string name="provider_label">ਸੰਪਰਕ</string>
+    <string name="upgrade_msg">ਸੰਪਰਕ ਡੇਟਾਬੇਸ ਅਪਗ੍ਰੇਡ ਕਰ ਰਿਹਾ ਹੈ।</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ਸੰਪਰਕ ਅਪਗ੍ਰੇਡ ਨੂੰ ਹੋਰ ਮੈਮਰੀ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="upgrade_out_of_memory_notification_title">ਸੰਪਰਕ ਸਟੋਰੇਜ ਅਪਗ੍ਰੇਡ ਕਰ ਰਿਹਾ ਹੈ</string>
+    <string name="upgrade_out_of_memory_notification_text">ਪੂਰਾ ਅਤੇ ਅਪਗ੍ਰੇਡ ਕਰਨ ਲਈ ਸਲੈਕਟ ਕਰੋ।</string>
+    <string name="default_directory">ਸੰਪਰਕ</string>
+    <string name="local_invisible_directory">ਦੂਜੇ</string>
+    <string name="read_write_all_voicemail_label">ਸਾਰੇ ਵੌਆਇਸਮੇਲਸ ਤੱਕ ਪਹੁੰਚ</string>
+    <string name="read_write_all_voicemail_description">ਸਾਰੀਆਂ ਵੌਆਇਸਮੇਲਸ ਜਿਹਨਾਂ ਤੱਕ ਇਹ ਡਿਵਾਈਸ ਪਹੁੰਚ ਸਕਦੀ ਹੈ, ਨੂੰ ਸਟੋਰ ਅਤੇ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਅਨੁਪ੍ਰਯੋਗ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ। </string>
+    <string name="voicemail_from_column">"ਤੋਂ ਵੌਆਇਸਮੇਲ "</string>
+    <string name="phone">"ਫੋਨ"</string>
+    <string name="debug_dump_title">"ਸੰਪਰਕ ਡੇਟਾਬੇਸ ਕਾਪੀ ਕਰੋ"</string>
+    <string name="debug_dump_database_message">"ਤੁਸੀਂ ਇਹ ਕਰਨ ਵਾਲੇ ਹੋ 1)ਆਪਣੇ ਡੇਟਾਬੇਸ ਦੀ ਇੱਕ ਕਾਪੀ ਬਣਾਉਣਾ ਜਿਸ ਵਿੱਚ ਸਾਰੇ ਸੰਪਰਕਾਂ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਅਤੇ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ ਦੇ ਸਾਰੇ ਕਾਲ ਲੌਗ ਸ਼ਾਮਿਲ ਹਨ, ਅਤੇ 2) ਇਸਨੂੰ ਈਮੇਲ ਕਰਨਾ। ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਇਸਨੂੰ ਡਿਵਾਈਸ ਤੇ ਸਫਲਤਾਪੂਰਵਕ ਕਾਪੀ ਕਰ ਲਿਆ ਹੈ ਤਾਂ ਜਾਂ ਈਮੇ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ ਤਾਂ ਕਾਪੀ ਮਿਟਾਉਣਾ ਯਾਦ ਰੱਖੋ।"</string>
+    <string name="debug_dump_delete_button">"ਹੁਣ ਮਿਟਾਓ"</string>
+    <string name="debug_dump_start_button">"ਸ਼ੁਰੂ ਕਰੋ"</string>
+    <string name="debug_dump_email_sender_picker">"ਤੁਹਾਡੀ ਫਾਈਲ ਨੂੰ ਭੇਜਣ ਲਈ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਚੁਣੋ"</string>
+    <string name="debug_dump_email_subject">"ਸੰਪਰਕ Db ਅਟੈਚ ਕੀਤੇ"</string>
+    <string name="debug_dump_email_body">"ਅਟੈਚ ਕੀਤਾ ਮੇਰੇ ਸਾਰੇ ਸੰਪਰਕਾਂ ਦੀ ਜਾਣਕਾਰੀ ਵਾਲਾ ਮੇਰੇ ਸੰਪਰਕ ਡੇਟਾਬੇਸ ਹੈ। ਧਿਆਨ ਨਾਲ ਪ੍ਰਯੋਗ ਕਰੋ।"</string>
+</resources>

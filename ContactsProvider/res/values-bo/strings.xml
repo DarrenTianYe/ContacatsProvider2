@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">འབྲེལ་གཏུག་པ་ཉར་གསོག</string>
+  <string name="provider_label">འབྲེལ་གཏུག་པ།</string>
+  <string name="upgrade_out_of_memory_notification_ticker">འབྲེལ་གཏུག་པ་རིམ་སྤར་བྱེད་པར་ཉར་གསོག་བར་སྟོང་མང་ཙམ་དགོས།</string>
+  <string name="upgrade_out_of_memory_notification_title">འབྲེལ་གཏུག་པ་རིམ་སྤར་བྱེད་སྐབས་ཉར་གསོག་བར་སྟོང་མི་འདང་།</string>
+  <string name="upgrade_out_of_memory_notification_text">འདེམས་ནས་རིམ་སྤར་ལེགས་གྲུབ་བྱེད།</string>
+  <string name="sharedUserLabel">Android ལྟེ་བ་བྱས་པའི་ཉེར་སྤྱོད་བྱ་རིམ། </string>
+  <string name="upgrade_msg">འབྲེལ་གཏུག་མི་སྣའི་གྲངས་ཀའི་མཛོད་ཇེ་མཐོར་གཏོང་བཞིན་པ། </string>
+  <string name="default_directory">འབྲེལ་གཏུག་པ།</string>
+  <string name="local_invisible_directory">གཞན། </string>
+  <string name="read_write_all_voicemail_label">སྐད་འཕྲིན་ཡིག་ཟམ་ཡོད་ཚད་ལ་ལྟ་ཞིབ་བྱེད་པ། </string>
+  <string name="read_write_all_voicemail_description">ཉེར་སྤྱོད་བྱ་རིམ་གྱིས་ལྟ་ཞིབ་བྱས་ཆོག་པའི་སྐད་འཕྲིན་ཡིག་ཟམ་ཡོད་ཚད་གསོག་ཉར་དང་བརྟག་ཞིབ་བྱས་ཆོག </string>
+  <string name="voicemail_from_column">སྐད་འཕྲིན་བསྐུར་མཁན། </string>
+  <string name="phone">ཁ་པར། </string>
+    <string name="debug_dump_title">"འབྲེལ་གཏུག་དན་གྲངས་མཛོད་ལ་བསྐྱར་བཤུས་རྒྱག"</string>
+    <string name="debug_dump_database_message">"ཁྱེད་ཀྱིས་གཤམ་གསལ་གྱི་སྒྲིག་འགོད་གནང་ཐུབ། 1)ནང་རོལ་གསོག་ཉར་སྒྲིག་ཆས་ནང་དུ། འབྲེལ་གཏུག་དན་གྲངས་མཛོད་ལ་འབྲེལ་བའི་ཁ་བརྡའི་ཟིན་ཐོའི་དྲན་གྲངས་མཛོད་ཀྱི་བུ་ཡིག་འཛུགས།2)གློག་རྡུལ་ཡིག་ཆར་བརྟེན་ནས་བུ་ཡིག་སྐུར། སྒྲིག་ཆས་སྟེང་ནས་བུ་ཡིག་དེའམ་གློག་རྡུལ་སྦྲགས་ཡིག་བསྐྱར་དུ་བཤུས་ནས་བསྐུར་ལ་འབྱོར་རྗེས་དུས་ལྟར་བུ་ཡིག་སུབ་རོགས།"</string>
+    <string name="debug_dump_delete_button">"འཕྲལ་མར་སུབས"</string>
+    <string name="debug_dump_start_button">"འགོ་འཛུགས་པ།"</string>
+    <string name="debug_dump_email_sender_picker">"ཡིག་ཆ་སྐུར་བའི་སྒྲིག་རིམ་འདམ།"</string>
+    <string name="debug_dump_email_subject">"ཟུར་བཏགས་འབྲེལ་གཏུག་དན་གྲངས་མཛོད།"</string>
+    <string name="debug_dump_email_body">"ཟུར་བཏགས་ནི་ང་ཚོའི་འབྲེལ་གཏུག་དན་གྲངས་མཛོད་ཡིན་ཞིང་། དེར་ངའི་འབྲེལ་གཏུག་ཆ་འཕྲིན་མཐའ་དག་ཡོད། དེ་བས་སེམས་ཆུང་གིས་ཐག་གཅོད་བྱེད།"</string>
+</resources>

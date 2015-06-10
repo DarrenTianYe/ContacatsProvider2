@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sharedUserLabel">"កម្មវិធីជាស្នួលនៃAndroid"</string>
+    <string name="app_label">"ការស្ដុកទំនិញអ្នកទំនាក់ទំនង"</string>
+    <string name="provider_label">"អ្នកទំនាក់ទំនង"</string>
+    <string name="upgrade_msg">"កំពុងធ្វើឲ្យស្រស់នូវមូលដ្ឋាន​ទិន្នន័យអ្នកទាក់ទង"</string>
+    <string name="upgrade_out_of_memory_notification_ticker">"អ្នកទំនាក់ទំនងបង្កើនឋានះត្រូវសតិកាន់តែច្រើន"</string>
+    <string name="upgrade_out_of_memory_notification_title">"កំពុងធ្វើឲ្យស្រស់នូវអង្គចងចាំអ្នកទាក់ទង"</string>
+    <string name="upgrade_out_of_memory_notification_text">"សូមជ្រើសរើសដើម្បីចប់ដំឡើង"</string>
+    <string name="default_directory">"អ្នកទំនាក់ទំនង"</string>
+    <string name="local_invisible_directory">"ផ្សេងទៀត"</string>
+    <string name="read_write_all_voicemail_label">"ចូលមើលអ៊ីមែលសំឡេងទាំងអស់"</string>
+    <string name="read_write_all_voicemail_description">"អនុញ្ញាតឲ្យកម្មវិធីផ្ទុកនិងស្វែងរកសំបុត្រសំឡេងទាំងអស់ដែលគ្រឿងបរិក្ខារនេះអាចចូលមើល។"</string>
+    <string name="voicemail_from_column">"អ៊ីមែលសំឡេងពី "</string>
+    <string name="phone">"ទូរស័ព្ទ"</string>
+    <string name="debug_dump_title">" ថតចម្លងទិន្នន័យរបស់កម្រងទំនាក់ទំនង"</string>
+    <string name="debug_dump_database_message">"លោកអ្នកនឹង 1)ថតចម្លងទិន្នន័យផ្ទាល់ខ្លួនរបស់លោកអ្នកមានដូចជារាល់ពត៍មានដែលទាក់ទងនឹងទំនាក់ទំនងទាំងអស់ព្រមទាំងកំណត់ត្រាការហៅផ្សេងៗចូលទៅអង្គចងចាំខាងក្នុង ហើយបន្ទាប់មក2) ផ្ញើអ៊ីមែលទិន្នន័យទាំងនេះ។សូមចងចាំលុបទិន្នន័យដែលបានថតចម្លងម៉ោងអោយបានលឿនបំផុតបន្ទាប់ពីលោកអ្នកបានថតចម្លងវាចេញបានសម្រេចពីឧបករណ៍ឬបន្ទាប់ពីអ៊ីមែលបានទទួល។"</string>
+    <string name="debug_dump_delete_button">"លុបចោលភ្លាម"</string>
+    <string name="debug_dump_start_button">"ចាប់ផ្តើម"</string>
+    <string name="debug_dump_email_sender_picker">"ជ្រើសរើសកម្មវិធីមួយសម្រាប់ផ្ញើឯកសាររបស់លោក"</string>
+    <string name="debug_dump_email_subject">"ឃ្លាំងទិន្នន័យក្នុងការធ្វើការទាក់ទងឆាប់រហ័ស"</string>
+    <string name="debug_dump_email_body">"ឯកសារភ្ជាប់សុទ្ធតែជាទិន្នន័យនៃកំណត់ត្រាទំនាក់ទំនងរបស់ទំនាក់ទំនងទាំងអស់ ដូច្នេះត្រូវតែចាត់ចែងដោយប្រុងប្រយ័ត្នបន្តិច។"</string>
+</resources>

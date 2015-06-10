@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">"ໂປແກມຫຼັກຂອງ Android"</string>
+<string name="app_label">"ການເກັບຮັກສາຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="provider_label">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="upgrade_msg">"​ກຳ​ລັງ​ອັບ​ເກ​ຣດ​ຖານ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="upgrade_out_of_memory_notification_ticker">"​ການ​ອັບ​ເກ​ຣດ​ຜູ້​ຕິດ​ຕໍ່​ຕ້ອງ​ການ​ພື້ນ​ທີ່​ໜ່ວຍ​ຄວາມ​ຈຳ​ເພີ່ມ​ເຕີມ"</string>
+<string name="upgrade_out_of_memory_notification_title">"ກຳ​ລັງ​ອັບ​ເກ​ຣດ​ໜ່ວຍ​ຄວາມ​ຈຳ​ເພື່ອ​ບັນ​ຈຸ​ຜູ້​ຕິດ​ຕໍ່​ໃຫ້​ໄດ້​ຫລາຍ​ຂື້ນ"</string>
+<string name="upgrade_out_of_memory_notification_text">"​ສຳ​ພັດ​ເພື່ອ​ສຳ​ເລັດ​ການ​ອັບ​ເກ​ຣດ"</string>
+<string name="default_directory">"ລາຍຊື່ຜູ່ຕິດຕໍ່"</string>
+<string name="local_invisible_directory">"ອື່ນໆ"</string>
+<string name="read_write_all_voicemail_label">"ເຂົ້າ​ເຖິງ​ຂໍ້​ຄວາມ​ສຽງ​ທັ້ງ​ໝົດ"</string>
+<string name="read_write_all_voicemail_description">"ອະ​ນຸ​ຍາດ​ໃຫ້​ໂປ​ຣ​ແກ​ຣມ​ເກັບ​ຮັກ​ສາ​ຂໍ້​ມູນ​ແລະກູ້ຂໍ້​ຄວາມ​ສຽງ​ທັ້​ໝົດ​ທີ່​ອຸ​ປະ​ກອນ​ນີ້​ສາ​ມາດ​ເຂົ້າ​ເຖິງ"</string>
+<string name="voicemail_from_column">"ຜູ້​ສົ່ງ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="debug_dump_title">"ກ໊ອບ​ປີ​ຖານ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="debug_dump_database_message">"ທ່ານ​ຈະ​ຕ້ອງ​ດຳ​ເນີນ​ການ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້1)​ກ໊ອບ​ປີ​ຖານ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ເຊີ່ງ​ລວມເຖິງ​ຂໍ້​ມູນ​ທີ່​ກ່ຽວ​ຂ້ອງ​ກັບ​ການ​ສື່​ສານ​ແລະ​ບັນ​ທຶກ​ການ​ໂທ​ທັ້ງ​ໝົດໄປ​ທີ່​ໜ່ວຍ​ຄວາມ​ຈຳ​ພາຍ​ໃນ, ແລະ 2)ສຳ​ເນົາ​ທີ່​ສົ່ງ​ຜ່ານ​ອີ​ເມວ.ຢ່າ​ລືມ​ລຶບ​ມັນ​ທັນ​ທີ​ຫລັງ​ຈາກ​ທີ່​ທ່ານ​ປະ​ສົບ​ຜົນ​ສຳ​ເລັດ​ໃນ​ການ​ສົ່ງ​ອີ​ເມວ​ຫຼືກ໊ອບ​ປີ​ສຳ​ເນົາ​ນັ້ນ​ຈາກ​ອຸ​ປະ​ກອນ​ສຳ​ເລັດ."</string>
+<string name="debug_dump_delete_button">"ລຶບ​ຕອນ​ນີ້"</string>
+<string name="debug_dump_start_button">"ເລີ່ມ"</string>
+<string name="debug_dump_email_sender_picker">"​ເລືອກ​ໂປ​ຣ​ແກ​ຣມ​ສຳ​ລັບ​ການ​ສົ່ງ​ໄຟ​ລ໌​ຂອງ​ທ່ານ"</string>
+<string name="debug_dump_email_subject">"ຖານ​ຂໍ້​ມູນ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ແນບ​ມາ"</string>
+<string name="debug_dump_email_body">"ໄຟ​ລ໌​ທີ່​ແນບ​ມາ​ປັນ​ຖານ​ຂໍ້​ມູນ​ການ​ສື່​ສານ ນັ້ນ​ລວມ​ເຖິງ​ຂໍ້​ມູນລາຍ​ຊື່​ຜູ້​ຕິດ​ຕໍ່​​ທັ້ງ​ໝົດຂອງ​ຂ້ອຍ​​,ດັ່ງ​ນັ້ນ​ກະ​ລຸ​ນາ​ລະ​ມັດ​ລະ​ວັງ​ໃນ​ການ​ຈັດ​ການ."</string>
+<string name="phone">"ໂທລະສັບ"</string>
+</resources>

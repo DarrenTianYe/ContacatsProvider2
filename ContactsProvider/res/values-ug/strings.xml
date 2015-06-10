@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">ئالاقىلاشقۇچى ساقلانغان</string>
+  <string name="provider_label">ئالاقىلاشقۇچىلار</string>
+  <string name="upgrade_out_of_memory_notification_ticker">ئالاقە يېڭلىنىش ئۈچۈن تېخىمۇ كۆپ ھەجىمگە مۇھتاج</string>
+  <string name="upgrade_out_of_memory_notification_title">نومۇر ساقلىغۇچنى يېڭىلاش</string>
+  <string name="upgrade_out_of_memory_notification_text">ئۆستۈرۈشنى تاماملاشنى تاللاش.</string>
+  <string name="upgrade_msg">ئالاقىلاشقۇچىلارنىڭ سانلىق مەلۇماتلىرى يېڭىلنىۋاتىدۇ.</string>
+  <string name="default_directory">ئالاقىلاشقۇچىلار</string>
+  <string name="local_invisible_directory">باشقا </string>
+  <string name="read_write_all_voicemail_label">بارلىق ئاۋازلىق يوللانمىنى كۆزدىن كەچۈرۈش</string>
+  <string name="read_write_all_voicemail_description">پىروگرامما بۇ ئۈسكۈنە زىيارەت قىلالايدىغان بارلىق ئاۋازلىق يوللانمىنى ساقلىسا ۋە ئىزدىسە بولىدۇ.</string>
+  <string name="voicemail_from_column">ئاۋازلىق يوللانما يوللىغۇچى</string>
+  <string name="phone">تىلفۇن </string>
+    <string name="sharedUserLabel">ئاندىرود يادىرو ئەمەلىي ئىشىلتىش مۇلازىمىتى</string>
+    <string name="debug_dump_title">"ئالاقىلاشقۇچىلار سانلىق مەلۇمات ئامبىرىنى كۆپەيتىش"</string>
+    <string name="debug_dump_database_message">"سىز تۆۋەندىكى مەشغۇلاتلارنى ئېلىپ بارماقچى: 1) بارلىق ئالاقىلاشقۇچىلارغا مۇناسىۋەتلىك ئۇچۇرلار ۋە بارلىق سۆزلىشىش تارىخىنى ئۆز ئىچىگە ئالغان سانلىق مەلۇمات ئامبىرىڭىزنىڭ بىر پارچە كۆپەيتمە نۇسخىسىنى سىرتقى ساقلىغۇچقا ساقلىماقچى 2)بۇ كۆپەيتمە نۇسخىنى ئېلىخەت ئارقىلىق يوللىماقچى. قۇشۇمچە نۇسخىنى مۇۋەپپىقىيەتلىك كۆپەيتكەندىن كېيىن ياكى ئېلىخەت ئارقىلىق يوللىغاندىن كېيىن، بۇ قۇشۇمچە نۇسخىنى چۇقۇم دەل ۋاقتىدا يۇيۇۋېتىڭ"</string>
+    <string name="debug_dump_delete_button">"دەرھال ئۆچۈرۈش"</string>
+    <string name="debug_dump_start_button">"باشلاش"</string>
+    <string name="debug_dump_email_sender_picker">"ھۆججەت پاپكىسىغا ئىشلىتىدىغان پىرۇگراممىنى تاللاش"</string>
+    <string name="debug_dump_email_subject">"ئالاقىلاشقۇچىلار سانلىق مەلۇمات ئامبىرى قۇشۇمچىلاندى"</string>
+    <string name="debug_dump_email_body">"قۇشۇمچىلانغىنى بولسا مېنىڭ ئالاقىلاشقۇچىلار ئۇچۇرىنى ئۆز ئىچىگە ئالغان ئالاقىلاشقۇچىلار سانلىق مەلۇمات ئامبىرى، شۇڭا ئېھتىيات بىلەن بىر تەرەپ قىلىڭ"</string>
+</resources>

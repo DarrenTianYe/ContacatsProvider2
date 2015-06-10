@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sharedUserLabel">Android કોર એપ્સ</string>
+<string name="app_label">સંપર્કો સંગ્રહ</string>
+<string name="provider_label">સંપર્કો</string>
+<string name="upgrade_msg">સંપર્કોના ડેટાબેઝને અપગ્રેડ કરે છે.</string>
+<string name="upgrade_out_of_memory_notification_ticker">સંપર્કોના અપગ્રેડમાં વધુ નાણાંની જરૂર છે.</string>
+<string name="upgrade_out_of_memory_notification_title">સંપર્કો માટે સ્ટોરેજને અપગ્રેડીંગ કરે છે.</string>
+<string name="upgrade_out_of_memory_notification_text">અપગ્રેડ પૂરું કરવા માટે ટચ કરો</string>
+<string name="default_directory">સંપર્કો</string>
+<string name="local_invisible_directory">અન્ય</string>
+<string name="read_write_all_voicemail_label">દરેક વોઇસમેઇલ્સમાં ઍક્સેસ કરો</string>
+<string name="read_write_all_voicemail_description">"એપ્લીકેશનને આ ડિવાઇસ ઍક્સેસ થઇ શકે તેવા વોઇસમેઇલનો સંગ્રહ કરવા અને પુનઃપ્રાપ્ત કરવાની મંજૂરી આપે છે."</string>
+<string name="voicemail_from_column">"ની પાસેથી વોઇસમેઇલનું "</string>
+<string name="phone">ફોનીક્સ</string>
+    <string name="debug_dump_title">"“કોન્ટેકટ ડેટાબેઝ કોપી કરો”"</string>
+    <string name="debug_dump_database_message">"“તમે આશરે ૧) તમારા ડેટાબેઝ જેમાં તમારા માહીતી સબંધીત બધા સંપર્કો છે તેની  કોપી બનાવી શકો છો અને ૨) તેને ઇમેઇલ કરી શકો છો. તમે સફળથાથી કોપી કરી લીધા પછી અથવા મેઇલ મેળવી લીધા પછી તેને ઝડપથી ડીલીટ કરવાનું યાદ રાખો.”"</string>
+    <string name="debug_dump_delete_button">"હાલમાં ડિલીટ કરો"</string>
+    <string name="debug_dump_start_button">"શરૂ કરો"</string>
+    <string name="debug_dump_email_sender_picker">"તમારી ફાઇલ મોકલવા માટે પ્રોગ્રામ પસંદ કરો"</string>
+    <string name="debug_dump_email_subject">"“કોન્ટેક્ટ DB એટેચ છે”"</string>
+    <string name="debug_dump_email_body">"“મારા કોન્ટેક્ટ ડેટા બેઝ સાથે મારા બધી માહીતી એટેચ થઇ  છે. કાળજીથી કામ કરો”"</string>
+</resources>

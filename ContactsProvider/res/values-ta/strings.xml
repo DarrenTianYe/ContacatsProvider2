@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">தொடர்புகள் சேமிப்பகம்</string>
+  <string name="provider_label">தொடர்புகள்</string>
+  <string name="upgrade_out_of_memory_notification_ticker">தொடர்பு தரம் உயர்த்தல் அதிக நினைவகத்தினை வேண்டுகிறது</string>
+  <string name="upgrade_out_of_memory_notification_title">தொடர்பு சேமிப்பகம் தரம் உயர்த்துகிறது</string>
+  <string name="upgrade_out_of_memory_notification_text">தரம் உயர்த்தல் பூர்த்தி செய்ய தெரிவு செய்க.</string>
+  <string name="sharedUserLabel">ஆண்டிராய்டு முக்கிய அப்ளிகேஷன்கள்</string>
+  <string name="upgrade_msg">தொடர்புகள் தரவுத்தளம் புதுப்பித்தலாகிறாது</string>
+  <string name="default_directory">தொடர்புகள்</string>
+  <string name="local_invisible_directory">மற்ற</string>
+  <string name="read_write_all_voicemail_label">அனைத்து குரல் அஞ்சல்களை அணுகவும்</string>
+  <string name="read_write_all_voicemail_description">இந்தச் சாதனம் அணுக முடிந்த அனைத்து குரல் அஞ்சல்;கள செமிக்க மற்றும் மீட்டெடுக்க அப்ளிகேஷனை அனுமதிக்கிறது.</string>
+  <string name="voicemail_from_column">“ லிருந்து குரல் அஞ்சல்”</string>
+  <string name="phone">“தொலைபேசி”</string>
+    <string name="debug_dump_title">"தொடர்புகள் தரவுத்தளத்தை நகலெடுக்கவும்"</string>
+    <string name="debug_dump_database_message">"நீங்கள் இப்பொழுது 1) உங்கள் தரவுத்தளத்தின் ஓர் நகலை எடுக்கப்போகிறீர்கள், அதில் உங்கள் தொடர்புகள் பற்றிய தகவலும் உள்ளக சேமிப்பகத்திற்கான அனைத்து அழைப்பு பதிவும் அடங்கும், மற்றும் 2) அதை மின்னஞ்சல் அனுப்பப்போகிறீர்கள். சாதனத்தில் வெற்றிகரமாக நகலெடுக்கப்பட்ட உடனே அல்லது மின்னஞ்சல் பெறப்பட்டதும் நகலை அழிக்க நினைவு கொள்ளவும்."</string>
+    <string name="debug_dump_delete_button">"இப்போது அழிக்கவும்"</string>
+    <string name="debug_dump_start_button">"துவக்கவும்"</string>
+    <string name="debug_dump_email_sender_picker">"உங்கள் கோப்பினை அனுப்ப ஒரு புரோகிராம் தெரிவு செய்க"</string>
+    <string name="debug_dump_email_subject">"தொடர்புகள் Db இணைக்கப்பட்டது"</string>
+    <string name="debug_dump_email_body">"எனது அனைத்து தொடர்புகளின் தகவலும் உள்ள எனது தொடர்புகள் தரவுத்தளம் இணைக்கப்பட்டுள்ளது. கவனத்துடன் கையாளவும்."</string>
+</resources>

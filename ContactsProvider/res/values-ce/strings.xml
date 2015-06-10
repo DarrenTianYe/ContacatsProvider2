@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">Imbakan sa mga kontak</string>
+  <string name="provider_label">Mga kontak</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Pag-upgrade sa kontak nanginahanglan ug daghan nga memorya</string>
+  <string name="upgrade_out_of_memory_notification_title">Upgrade ug imbakan sa kontak</string>
+  <string name="upgrade_out_of_memory_notification_text">Pili para makumpleto ang upgrade.</string>
+  <string name="sharedUserLabel">Android Core nga mga App</string>
+  <string name="upgrade_msg">Nag-upgrade sa database sa mga kontak.</string>
+  <string name="default_directory">Mga kontak</string>
+  <string name="local_invisible_directory">Lain</string>
+  <string name="read_write_all_voicemail_label">I-access tanan mga voicemail</string>
+  <string name="read_write_all_voicemail_description">Mutugot sa app para mu-imbak ug ibalik
+        tanan mga voicemail nga ma-access ani nga device.</string>
+  <string name="voicemail_from_column">"Voicemail gikan "</string>
+  <string name="phone">"Phone"</string>
+    <string name="debug_dump_title">"Kopyaha ang database sa mga kontak"</string>
+    <string name="debug_dump_database_message">"Ikaw kay hapit na1) maghimo ug kopya sa imong databse nga naglakip sa tanan impormasyon nga naay relasyon sa mga kontak ug tanan log sa mga tawag sa sulod nga sudlanan, ug 2) email na. Hinumdumi sa pagpanas sa kopya pagkahuman dayon sa usa ka malampuson nga pagkopya ngadto sa imong debays o nadwat na ang email."</string>
+    <string name="debug_dump_delete_button">"I-delete karon"</string>
+    <string name="debug_dump_start_button">"Sugod"</string>
+    <string name="debug_dump_email_sender_picker">"Pili ug usa ka programa aron ipadala imu file"</string>
+    <string name="debug_dump_email_subject">"Gilakip ang mga kontak Db"</string>
+    <string name="debug_dump_email_body">"Gilakip ang akong mga dtabase sa kontak lakip ang tanan impormasyon sa mg kontak. Dala ug pagamping."</string>
+</resources>

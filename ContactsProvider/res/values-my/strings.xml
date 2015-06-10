@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_label">ဖုန္းလိပ္စာသိမ္းဆည္းမႈ</string>
+  <string name="provider_label">အဆက္အသြယ္မ်ား</string>
+  <string name="upgrade_out_of_memory_notification_ticker">ဖုန္းလိပ္စာအဆင့္ျမွင့္ရန္မွတ္ဥာဏ္ပိုမို၍လိုအပ္သည္</string>
+  <string name="upgrade_out_of_memory_notification_title">လိပ္စာသိမ္းဆည္းမႈကို အဆင့္ျမွင့္ေနဆဲ </string>
+  <string name="upgrade_out_of_memory_notification_text">အဆင့္ျမွင့္ျခင္းျပီးဆံုးရန္ ေ႐ြးခ်ယ္ပါ</string>
+  <string name="sharedUserLabel">အန္္းဒေရာ့ ကိုးပရိုဂရမ္</string>
+  <string name="upgrade_msg">မာတိကာေဒတာေဘ့စ္ကိုအပ္ဂရိတ္လုပ္ျခင္း</string>
+  <string name="local_invisible_directory">အျခား</string>
+  <string name="read_write_all_voicemail_label">အသံေမးလ္အားလံုးကို၀င္ရန္</string>
+  <string name="read_write_all_voicemail_description">ဒီကိရိယာမွလက္ခံထားသည့္ အသံေမးလ္ဖိုင္မ်ားကိုသိမ္းရန္ႏွင့္ ျပန္၍ စုစည္းရန္ ပရိုဂရမ္ဖြင့္ပါ။</string>
+  <string name="voicemail_from_column">↔အသံေမး(လ္)မွ ↔</string>
+  <string name="phone">↔ဖုန္း↔</string>
+  <string name="default_directory">"အဆက္အသြယ္မ်ား"</string>
+    <string name="debug_dump_title">"ဆက္သြယ္သူမ်ား ေဒတာေဘ့စ္ ကို မိတၱဴပြားပါ"</string>
+    <string name="debug_dump_database_message">"သင္သည္ 1) ေအပီပီမွ ဖတ္ရန္သာျဖစ္သည့္ သင္၏ျပက္ခဒိန္ ေဒတာေဘ့စ္ကို SD ကဒ္/ USB စတိုမွတ္ဥာဏ္သို့ မိတ္တူပြားပါ. 2) အီးေမးလ္ပို့ပါ စက္သို့မိတ္တူပြားျပီးလွ်င္၊ (သို့) အီးေမးလ္လက္ခံျပီးလွ်င္၊ ခ်က္ခ်င္း မိတ္တူကိုပယ္ဖ်က္ရန္ အမွတ္ထားပါ."</string>
+    <string name="debug_dump_delete_button">ယခုဖ်က္ပါ</string>
+    <string name="debug_dump_start_button">စ (Start)</string>
+    <string name="debug_dump_email_sender_picker">"သင့္ဖုိင္ပို႔ရန္ ပ႐ိုဂရမ္ေ႐ြးပါ"</string>
+    <string name="debug_dump_email_subject">"ဆက္သြယ္သူမ်ား Db ပူးတြဲ"</string>
+    <string name="debug_dump_email_body">"က်ြန္ုပ္၏ဆက္သြယ္သူသတင္းအခ်က္မ်ားနွင့္ ေဒတာေဘ့စ္ကို ပူးတြဲပါ. သတိျပဳကိုင္တြယ္ပါ."</string>
+</resources>
